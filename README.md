@@ -4,7 +4,7 @@ DBD Load Times
 This python script checks for the dbd window loading, if it finds it in a 
 loading state it will wait for the loading to finish and record the time
 it took to load.
-You then can input the map name and it will save the time to a file while
+You then can input the map name, and it will save the time to a file while
 printing out the average.
 
 Usage
